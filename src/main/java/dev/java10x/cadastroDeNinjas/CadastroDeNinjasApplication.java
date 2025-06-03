@@ -8,10 +8,10 @@ public class CadastroDeNinjasApplication {
 
 	public static void main(String[] args) {
 
-		int n1 = 2;
-		int n2 = 3;
+		int n1 = 20;
+		int n2 = 30;
 		int res = n1 + n2;
-		System.out.println("hello");
+		System.out.println("teste");
 		System.out.print(res);
 	}
 
